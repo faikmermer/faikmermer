@@ -3,7 +3,7 @@ FAİK MERMER
 <img align="right" alt="Gif" src="https://media1.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif?" width="400" height="320" />
 
 
-## I'm an Engineer 👨‍💻, Machine Learning Developer 🚀 ✍ and I'm still learning 👨‍🎓!
+## I'm an Engineer 👨‍💻 🚀 ✍ and I'm still learning 👨‍🎓!
 - 🔭 I am currently working on a large and custom application.
 - 🌱 I'm learning right now 😂
 - 👯 I want to collaborate with other software developers 👩‍💻 and AI experts 🎨
