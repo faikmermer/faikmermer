@@ -36,6 +36,10 @@ FAİK MERMER
 [<img align="left" alt="Scikit-learn" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/scikit-learn/scikit-learn.png" />][scikit-learn]
 [<img align="left" alt="Java" width="26px" 
 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java]
+[<img align="left" alt="Nodejs" width="26px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+
+
 
 <br />
 
@@ -51,6 +55,7 @@ src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][j
 [scikit-learn]: https://scikit-learn.org/stable/
 [matlab]: https://www.mathworks.com/products/matlab.html/
 [java]: https://www.oracle.com/tr/java/
+[nodejs]:https://nodejs.org/en/
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=faikmermer&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faikmermer&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
