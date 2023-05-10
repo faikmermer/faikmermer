@@ -1,6 +1,6 @@
 FAİK MERMER
 
-<img align="right" alt="Gif" src="https://media4.giphy.com/media/2w5MMNvg70MrQ0I2DR/giphy.gif?cid=ecf05e47m2dtilnjgr2uxom52suh6t0eef82n6nldn73te46&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="320" />
+<img align="right" alt="Gif" src="https://media4.giphy.com/media/2w5MMNvg70MrQ0I2DR/giphy.gif?cid=ecf05e47m2dtilnjgr2uxom52suh6t0eef82n6nldn73te46&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="320" />
 
 
 ## I'm an Engineer 👨‍💻 🚀 ✍ and I'm still learning 👨‍🎓!
