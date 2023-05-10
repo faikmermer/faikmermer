@@ -1,14 +1,12 @@
 FAİK MERMER
 
-<img align="right" alt="Gif" src="https://media1.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif?" width="400" height="320" />
+<img align="right" alt="Gif" src="https://media4.giphy.com/media/2w5MMNvg70MrQ0I2DR/giphy.gif?cid=ecf05e47m2dtilnjgr2uxom52suh6t0eef82n6nldn73te46&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="320" />
 
 
 ## I'm an Engineer 👨‍💻 🚀 ✍ and I'm still learning 👨‍🎓!
 - 🔭 I am currently working on a large and custom application.
 - 🌱 I'm learning right now 😂
-- 👯 I want to collaborate with other software developers 👩‍💻 and AI experts 🎨
-- 🤔 What is being done with machine learning and deep learning!
-- 🥅 Goals: Developing an app that will be heard around the world 🌎 and become an AI expert🤖
+- 👯 I want to collaborate with other software developers 👩‍💻 🎨
 - ⚡ Fun fact: I love swimming 🏊‍♀️, playing chess ♟, playing basketball 🏀 and cycling 🚴‍♀️
 
 ### 📩 Connect with me:
