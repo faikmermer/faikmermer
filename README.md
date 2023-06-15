@@ -6,7 +6,7 @@ FAİK MERMER
 ## I'm an Engineer 👨‍💻 🚀 ✍ and I'm still learning 👨‍🎓!
 - 🔭 I am currently working on a large and custom application.
 - 🌱 I'm learning right now 😂
-- 👯 I want to collaborate with other software developers 👩‍💻 🎨
+-  I want to collaborate with other software developers  🎨
 - ⚡ Fun fact: I love swimming 🏊‍♀️, playing chess ♟, playing basketball 🏀 and cycling 🚴‍♀️
 
 ### 📩 Connect with me:
