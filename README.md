@@ -40,14 +40,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [javascript]: https://www.javascript.com/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[android]: https://www.android.com/
 [github]: https://github.com/IbrahimTalha0
 [python]: https://www.python.org/
-[linux]: https://www.linux.org/
 [postgresql]: https://www.postgresql.org/
 [tensorflow]: https://www.tensorflow.org/
 [scikit-learn]: https://scikit-learn.org/stable/
-[matlab]: https://www.mathworks.com/products/matlab.html/
 [java]: https://www.oracle.com/tr/java/
 [nodejs]:https://nodejs.org/en/
 
