@@ -26,10 +26,6 @@ FAİK MERMER
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/linux/linux.png" />][linux]
-[<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/postgresql/postgresql.png" />][postgresql]
-[<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/matlab/matlab.png" />][matlab]
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/tensorflow/tensorflow.png" />][tensorflow]
 [<img align="left" alt="Scikit-learn" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/scikit-learn/scikit-learn.png" />][scikit-learn]
 [<img align="left" alt="Java" width="26px" 
